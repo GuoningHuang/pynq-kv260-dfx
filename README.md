@@ -1,8 +1,8 @@
 # pynq-kv260-dfx
 A demo using kv260 and pynq to implement simple dfx
-## add_sub_dfx
+## 1.add_sub_dfx
 This demo implments A DFX between add and sub. The initial function of the top.bit is add.After dfx,the function changes to sub.\
-## mul_dot_dfx
+## 2.mul_dot_dfx
 This demo implements a DFX between matrix multiplication and element-wise (dot) multiplication. Initially, the demo performs matrix multiplication. After DFX, the functionality changes to element-wise (dot) multiplication.\
 ### bitstreams
 The initial top.bit performs matrix multiplication. \
